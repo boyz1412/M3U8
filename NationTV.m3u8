@@ -1,5 +1,6 @@
 #EXTM3U
+
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSUQN_ZyaPlH6LpB4kvn1GFg)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSRP0cO25BJvzPdJ1-i__cE4)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001f,mp4a.40.2",NAME="720"
-https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSUQN_ZyaPlH6LpB4kvn1GFg)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSRP0cO25BJvzPdJ1-i__cE4)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
